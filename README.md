@@ -1,1 +1,1 @@
-# INFORMATICA-1-Projects
+# INFORMATICA1-Projects
